@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOM.UnitOfWorkSln.API", "AOM.UnitOfWorkSln.API\AOM.UnitOfWorkSln.API.csproj", "{556AA265-85C4-4855-A79E-5011CB420793}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{556AA265-85C4-4855-A79E-5011CB420793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556AA265-85C4-4855-A79E-5011CB420793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556AA265-85C4-4855-A79E-5011CB420793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556AA265-85C4-4855-A79E-5011CB420793}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58E77A81-D254-4326-BBD2-71FEBE3270CA}
+	EndGlobalSection
+EndGlobal
