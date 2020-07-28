@@ -1,12 +1,11 @@
 using AOM.UnitOfWorkSln.API.Data;
-using AOM.UnitOfWorkSln.API.Interfaces;
-using AOM.UnitOfWorkSln.API.Repositories;
+using Microsoft.Extensions.Hosting;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
+using AOM.UnitOfWorkSln.API.Interfaces;
+using AOM.UnitOfWorkSln.API.Repositories;
 using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Hosting;
-
 using Microsoft.Extensions.DependencyInjection;
 
 namespace AOM.UnitOfWorkSln.API
